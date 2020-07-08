@@ -1,4 +1,4 @@
-#PGM_processing
+# PGM_processing
 
 This is one of my first project written in C. This is program where I learned about pointers, how to use main arguments and how to pass arguments to functions. 
 
