@@ -9,7 +9,7 @@ Purpose of this app is to prcess PMG files
 * o - output image
 * n - negative
 * t - thresholding
-* s - streaching
+* s - stretching
 * h - histogram equalization
 
 example of use: ./test -i imp.pmg -n -o img2.pmg
